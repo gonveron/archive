@@ -1,36 +1,87 @@
 #EXTM3U
-#EXTINF:0,A24
-http://visioniptv1.dynu.net:8073/A24?u=GONZALOVERON:p=9577263913
 #EXTINF:0,America Tv HD
 http://visioniptv1.dynu.net:8073/America%20Tv%20HD?u=GONZALOVERON:p=9577263913
+#EXTINF:0,Tv Publica Hd
+http://visioniptv1.dynu.net:8073/Tv%20Publica%20Hd?u=GONZALOVERON:p=9577263913
+#EXTINF:0,Nueve HD.
+http://visioniptv1.dynu.net:8073/Nueve%20HD%2E?u=GONZALOVERON:p=9577263913
+#EXTINF:0,Telefe HD
+http://visioniptv1.dynu.net:8073/Telefe%20HD?u=GONZALOVERON:p=9577263913
+#EXTINF:0,El Trece HD
+http://visioniptv1.dynu.net:8073/El%20Trece%20HD?u=GONZALOVERON:p=9577263913
+#EXTINF:0,A24
+http://visioniptv1.dynu.net:8073/A24?u=GONZALOVERON:p=9577263913
 #EXTINF:0,C5N
 http://visioniptv1.dynu.net:8073/C5N?u=GONZALOVERON:p=9577263913
 #EXTINF:0,CANAL 26  
 http://visioniptv1.dynu.net:8073/CANAL%2026%20%20?u=GONZALOVERON:p=9577263913
-#EXTINF:0,CNN ESPA
-http://visioniptv1.dynu.net:8073/CNN%20ESPA%E2%80%94OL?u=GONZALOVERON:p=9577263913
+#EXTINF:0,Cronica Hd
+http://visioniptv1.dynu.net:8073/Cronica%20Hd?u=GONZALOVERON:p=9577263913
+#EXTINF:0,TN HD 
+http://visioniptv1.dynu.net:8073/TN%20HD%20?u=GONZALOVERON:p=9577263913
+#EXTINF:0,La Nacion Tv
+http://visioniptv1.dynu.net:8073/La%20Nacion%20Tv?u=GONZALOVERON:p=9577263913
 #EXTINF:0,Canal Rural
 http://visioniptv1.dynu.net:8073/Canal%20Rural?u=GONZALOVERON:p=9577263913
 #EXTINF:0,Canal de la Ciudad
 http://visioniptv1.dynu.net:8073/Canal%20de%20la%20Ciudad?u=GONZALOVERON:p=9577263913
 #EXTINF:0,Ciudad Magazine
 http://visioniptv1.dynu.net:8073/Ciudad%20Magazine?u=GONZALOVERON:p=9577263913
-#EXTINF:0,Cronica Hd
-http://visioniptv1.dynu.net:8073/Cronica%20Hd?u=GONZALOVERON:p=9577263913
-#EXTINF:0,El Trece HD
-http://visioniptv1.dynu.net:8073/El%20Trece%20HD?u=GONZALOVERON:p=9577263913
+
+#EXTINF:0,CNN ESPA
+http://visioniptv1.dynu.net:8073/CNN%20ESPA%E2%80%94OL?u=GONZALOVERON:p=9577263913
+
+
+
+
 #EXTINF:0,Encuentro
 http://visioniptv1.dynu.net:8073/Encuentro?u=GONZALOVERON:p=9577263913
-#EXTINF:0,La Nacion Tv
-http://visioniptv1.dynu.net:8073/La%20Nacion%20Tv?u=GONZALOVERON:p=9577263913
-#EXTINF:0,Nueve HD.
-http://visioniptv1.dynu.net:8073/Nueve%20HD%2E?u=GONZALOVERON:p=9577263913
-#EXTINF:0,TN HD 
-http://visioniptv1.dynu.net:8073/TN%20HD%20?u=GONZALOVERON:p=9577263913
-#EXTINF:0,Telefe HD
-http://visioniptv1.dynu.net:8073/Telefe%20HD?u=GONZALOVERON:p=9577263913
-#EXTINF:0,Tv Publica Hd
-http://visioniptv1.dynu.net:8073/Tv%20Publica%20Hd?u=GONZALOVERON:p=9577263913
+
+#EXTINF:0,F1 EXCLUSIVO
+http://visioniptv1.dynu.net:8073/F1%20EXCLUSIVO?u=GONZALOVERON:p=9577263913
+#EXTINF:0,F1 EXCLUSIVO
+http://visioniptv1.dynu.net:8073/F1%20EXCLUSIVO?u=GONZALOVERON:p=9577263913
+#EXTINF:0,TNT Sports HD
+http://visioniptv1.dynu.net:8073/TNT%20Sports%20HD?u=GONZALOVERON:p=9577263913
+#EXTINF:0,Espn Premium HD
+http://visioniptv1.dynu.net:8073/Espn%20Premium%20HD?u=GONZALOVERON:p=9577263913
+#EXTINF:0,Fox Sports
+http://visioniptv1.dynu.net:8073/Fox%20Sports?u=GONZALOVERON:p=9577263913
+#EXTINF:0,Fox Sports 2
+http://visioniptv1.dynu.net:8073/Fox%20Sports%202?u=GONZALOVERON:p=9577263913
+#EXTINF:0,Fox Sports 2 HD
+http://visioniptv1.dynu.net:8073/Fox%20Sports%202%20HD?u=GONZALOVERON:p=9577263913
+#EXTINF:0,Fox Sports 3
+http://visioniptv1.dynu.net:8073/Fox%20Sports%203?u=GONZALOVERON:p=9577263913
+#EXTINF:0,Fox Sports 3 HD
+http://visioniptv1.dynu.net:8073/Fox%20Sports%203%20HD?u=GONZALOVERON:p=9577263913
+#EXTINF:0,Movistar Deportes
+http://visioniptv1.dynu.net:8073/Movistar%20Deportes?u=GONZALOVERON:p=9577263913
+#EXTINF:0,Fox Sports HD
+http://visioniptv1.dynu.net:8073/Fox%20Sports%20HD?u=GONZALOVERON:p=9577263913
+#EXTINF:0,America Sport
+http://visioniptv1.dynu.net:8073/America%20Sport?u=GONZALOVERON:p=9577263913
+#EXTINF:0,Deportv sd
+http://visioniptv1.dynu.net:8073/Deportv%20sd?u=GONZALOVERON:p=9577263913
+#EXTINF:0,ESPN
+http://visioniptv1.dynu.net:8073/ESPN?u=GONZALOVERON:p=9577263913
+#EXTINF:0,ESPN + HD
+http://visioniptv1.dynu.net:8073/ESPN%20%2B%20HD?u=GONZALOVERON:p=9577263913
+#EXTINF:0,ESPN 2
+http://visioniptv1.dynu.net:8073/ESPN%202?u=GONZALOVERON:p=9577263913
+#EXTINF:0,TyC Sport Internacional
+http://visioniptv1.dynu.net:8073/TyC%20Sport%20Internacional?u=GONZALOVERON:p=9577263913
+#EXTINF:0,TyC Sports HD
+http://visioniptv1.dynu.net:8073/TyC%20Sports%20HD?u=GONZALOVERON:p=9577263913
+#EXTINF:0,TyC Sports Sd
+http://visioniptv1.dynu.net:8073/TyC%20Sports%20Sd?u=GONZALOVERON:p=9577263913
+#EXTINF:0,ESPN  HD 
+http://visioniptv1.dynu.net:8073/ESPN%20%20HD%20?u=GONZALOVERON:p=9577263913
+#EXTINF:0,ESPN 3 HD
+http://visioniptv1.dynu.net:8073/ESPN%203%20HD?u=GONZALOVERON:p=9577263913
+#EXTINF:0,ESPN 2 HD
+http://visioniptv1.dynu.net:8073/ESPN%202%20HD?u=GONZALOVERON:p=9577263913
+
 #EXTINF:0,HBO HD
 http://visioniptv1.dynu.net:8073/HBO%20HD?u=GONZALOVERON:p=9577263913
 #EXTINF:0,HBO Plus HD
@@ -147,50 +198,6 @@ http://visioniptv1.dynu.net:8073/Cinemax?u=GONZALOVERON:p=9577263913
 #EXTINF:0,HBO2
 http://visioniptv1.dynu.net:8073/HBO2?u=GONZALOVERON:p=9577263913
 
-#EXTINF:0,F1 EXCLUSIVO
-http://visioniptv1.dynu.net:8073/F1%20EXCLUSIVO?u=GONZALOVERON:p=9577263913
-#EXTINF:0,F1 EXCLUSIVO
-http://visioniptv1.dynu.net:8073/F1%20EXCLUSIVO?u=GONZALOVERON:p=9577263913
-#EXTINF:0,TNT Sports HD
-http://visioniptv1.dynu.net:8073/TNT%20Sports%20HD?u=GONZALOVERON:p=9577263913
-#EXTINF:0,Espn Premium HD
-http://visioniptv1.dynu.net:8073/Espn%20Premium%20HD?u=GONZALOVERON:p=9577263913
-#EXTINF:0,Fox Sports
-http://visioniptv1.dynu.net:8073/Fox%20Sports?u=GONZALOVERON:p=9577263913
-#EXTINF:0,Fox Sports 2
-http://visioniptv1.dynu.net:8073/Fox%20Sports%202?u=GONZALOVERON:p=9577263913
-#EXTINF:0,Fox Sports 2 HD
-http://visioniptv1.dynu.net:8073/Fox%20Sports%202%20HD?u=GONZALOVERON:p=9577263913
-#EXTINF:0,Fox Sports 3
-http://visioniptv1.dynu.net:8073/Fox%20Sports%203?u=GONZALOVERON:p=9577263913
-#EXTINF:0,Fox Sports 3 HD
-http://visioniptv1.dynu.net:8073/Fox%20Sports%203%20HD?u=GONZALOVERON:p=9577263913
-#EXTINF:0,Movistar Deportes
-http://visioniptv1.dynu.net:8073/Movistar%20Deportes?u=GONZALOVERON:p=9577263913
-#EXTINF:0,Fox Sports HD
-http://visioniptv1.dynu.net:8073/Fox%20Sports%20HD?u=GONZALOVERON:p=9577263913
-#EXTINF:0,America Sport
-http://visioniptv1.dynu.net:8073/America%20Sport?u=GONZALOVERON:p=9577263913
-#EXTINF:0,Deportv sd
-http://visioniptv1.dynu.net:8073/Deportv%20sd?u=GONZALOVERON:p=9577263913
-#EXTINF:0,ESPN
-http://visioniptv1.dynu.net:8073/ESPN?u=GONZALOVERON:p=9577263913
-#EXTINF:0,ESPN + HD
-http://visioniptv1.dynu.net:8073/ESPN%20%2B%20HD?u=GONZALOVERON:p=9577263913
-#EXTINF:0,ESPN 2
-http://visioniptv1.dynu.net:8073/ESPN%202?u=GONZALOVERON:p=9577263913
-#EXTINF:0,TyC Sport Internacional
-http://visioniptv1.dynu.net:8073/TyC%20Sport%20Internacional?u=GONZALOVERON:p=9577263913
-#EXTINF:0,TyC Sports HD
-http://visioniptv1.dynu.net:8073/TyC%20Sports%20HD?u=GONZALOVERON:p=9577263913
-#EXTINF:0,TyC Sports Sd
-http://visioniptv1.dynu.net:8073/TyC%20Sports%20Sd?u=GONZALOVERON:p=9577263913
-#EXTINF:0,ESPN  HD 
-http://visioniptv1.dynu.net:8073/ESPN%20%20HD%20?u=GONZALOVERON:p=9577263913
-#EXTINF:0,ESPN 3 HD
-http://visioniptv1.dynu.net:8073/ESPN%203%20HD?u=GONZALOVERON:p=9577263913
-#EXTINF:0,ESPN 2 HD
-http://visioniptv1.dynu.net:8073/ESPN%202%20HD?u=GONZALOVERON:p=9577263913
 #EXTINF:0,ID - Investigation Discovery
 http://visioniptv1.dynu.net:8073/ID%20%2D%20Investigation%20Discovery?u=GONZALOVERON:p=9577263913
 #EXTINF:0,Film & arts HD.
