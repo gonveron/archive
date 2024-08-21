@@ -1,6 +1,5 @@
 #EXTM3U
 
-#Argentina
 #EXTINF:0,America Tv HD
 http://visioniptv1.dynu.net:8073/America%20Tv%20HD?u=GONZALOVERON:p=9577263913
 #EXTINF:0,Tv Publica Hd
@@ -29,17 +28,12 @@ http://visioniptv1.dynu.net:8073/Canal%20Rural?u=GONZALOVERON:p=9577263913
 http://visioniptv1.dynu.net:8073/Canal%20de%20la%20Ciudad?u=GONZALOVERON:p=9577263913
 #EXTINF:0,Ciudad Magazine
 http://visioniptv1.dynu.net:8073/Ciudad%20Magazine?u=GONZALOVERON:p=9577263913
-
 #EXTINF:0,CNN ESPA
 http://visioniptv1.dynu.net:8073/CNN%20ESPA%E2%80%94OL?u=GONZALOVERON:p=9577263913
-
-
-
-
 #EXTINF:0,Encuentro
 http://visioniptv1.dynu.net:8073/Encuentro?u=GONZALOVERON:p=9577263913
 
-#Deportes
+
 #EXTINF:0,F1 EXCLUSIVO
 http://visioniptv1.dynu.net:8073/F1%20EXCLUSIVO?u=GONZALOVERON:p=9577263913
 #EXTINF:0,F1 EXCLUSIVO
