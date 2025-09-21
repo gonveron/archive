@@ -1,4 +1,65 @@
 #EXTM3U
+#EXTINF:0,F1 EXCLUSIVO
+http://br1.urutelam.com:8073/F1%20EXCLUSIVO?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+#EXTINF:0,Espn Premium HD.
+http://br1.urutelam.com:8073/Espn%20Premium%20HD%2E?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+#EXTINF:0,TNT Sports HD.
+http://br1.urutelam.com:8073/TNT%20Sports%20HD%2E?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+#EXTINF:0,TyC Sports HD.
+http://br1.urutelam.com:8073/TyC%20Sports%20HD%2E?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+
+#EXTINF:0,Fox Sports
+http://br1.urutelam.com:8073/Fox%20Sports?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+#EXTINF:0,Fox Sports 2
+http://br1.urutelam.com:8073/Fox%20Sports%202?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+#EXTINF:0,Fox Sports 2 HD.
+http://br1.urutelam.com:8073/Fox%20Sports%202%20HD%2E?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+#EXTINF:0,Fox Sports 3
+http://br1.urutelam.com:8073/Fox%20Sports%203?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+#EXTINF:0,Fox Sports 3 HD.
+http://br1.urutelam.com:8073/Fox%20Sports%203%20HD%2E?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+#EXTINF:0,Fox Sports HD.
+http://br1.urutelam.com:8073/Fox%20Sports%20HD%2E?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+
+#EXTINF:0,ESPN
+http://br1.urutelam.com:8073/ESPN?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+#EXTINF:0,ESPN  HD.
+http://br1.urutelam.com:8073/ESPN%20%20HD%2E?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+#EXTINF:0,ESPN + HD
+http://br1.urutelam.com:8073/ESPN%20%2B%20HD?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+#EXTINF:0,ESPN 2
+http://br1.urutelam.com:8073/ESPN%202?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+#EXTINF:0,ESPN 2 HD.
+http://br1.urutelam.com:8073/ESPN%202%20HD%2E?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+#EXTINF:0,ESPN 3 HD.
+http://br1.urutelam.com:8073/ESPN%203%20HD%2E?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+
+#EXTINF:0,Movistar Deportes
+http://br1.urutelam.com:8073/Movistar%20Deportes?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+
+#EXTINF:0,America Sport
+http://br1.urutelam.com:8073/America%20Sport?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+
+#EXTINF:0,Deportv sd
+http://br1.urutelam.com:8073/Deportv%20sd?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+#EXTINF:0,Gol Peru
+http://br1.urutelam.com:8073/Gol%20Peru?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+
+#EXTINF:0,Golf Channel.
+http://br1.urutelam.com:8073/Golf%20Channel%2E?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+
+#EXTINF:0,TyC Sport Internacional
+http://br1.urutelam.com:8073/TyC%20Sport%20Internacional?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+
+#EXTINF:0,ESPN2 COL.
+http://br1.urutelam.com:8073/ESPN2%20COL%2E?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+
+#EXTINF:0,Win Sports
+http://br1.urutelam.com:8073/Win%20Sports?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+
+#EXTINF:0,Tigo Sports HD
+http://br1.urutelam.com:8073/Tigo%20Sports%20HD?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+
 #EXTINF:0,A24.
 http://br1.urutelam.com:8073/A24%2E?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
 #EXTINF:0,America Tv HD
@@ -112,8 +173,6 @@ http://br1.urutelam.com:8073/Paramount%20Channel?u=GONZALOVERON:p=9577263913:ser
 http://br1.urutelam.com:8073/De%20Pelicula?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
 #EXTINF:0,RCN Novelas
 http://br1.urutelam.com:8073/RCN%20Novelas?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
-#EXTINF:0,Tigo Sports HD
-http://br1.urutelam.com:8073/Tigo%20Sports%20HD?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
 #EXTINF:0,Space
 http://br1.urutelam.com:8073/Space?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
 #EXTINF:0,Studio Universal.
@@ -164,52 +223,7 @@ http://br1.urutelam.com:8073/Senal%20Colombiana?u=GONZALOVERON:p=9577263913:serv
 http://br1.urutelam.com:8073/Telepacifico?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
 #EXTINF:0,Canal Institucional
 http://br1.urutelam.com:8073/Canal%20Institucional?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
-#EXTINF:0,Fox Sports
-http://br1.urutelam.com:8073/Fox%20Sports?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
-#EXTINF:0,Fox Sports 2
-http://br1.urutelam.com:8073/Fox%20Sports%202?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
-#EXTINF:0,Fox Sports 2 HD.
-http://br1.urutelam.com:8073/Fox%20Sports%202%20HD%2E?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
-#EXTINF:0,Fox Sports 3
-http://br1.urutelam.com:8073/Fox%20Sports%203?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
-#EXTINF:0,Fox Sports 3 HD.
-http://br1.urutelam.com:8073/Fox%20Sports%203%20HD%2E?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
-#EXTINF:0,TNT Sports HD.
-http://br1.urutelam.com:8073/TNT%20Sports%20HD%2E?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
-#EXTINF:0,Movistar Deportes
-http://br1.urutelam.com:8073/Movistar%20Deportes?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
-#EXTINF:0,Fox Sports HD.
-http://br1.urutelam.com:8073/Fox%20Sports%20HD%2E?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
-#EXTINF:0,Espn Premium HD.
-http://br1.urutelam.com:8073/Espn%20Premium%20HD%2E?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
-#EXTINF:0,America Sport
-http://br1.urutelam.com:8073/America%20Sport?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
-#EXTINF:0,Deportv sd
-http://br1.urutelam.com:8073/Deportv%20sd?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
-#EXTINF:0,Gol Peru
-http://br1.urutelam.com:8073/Gol%20Peru?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
-#EXTINF:0,ESPN
-http://br1.urutelam.com:8073/ESPN?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
-#EXTINF:0,ESPN + HD
-http://br1.urutelam.com:8073/ESPN%20%2B%20HD?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
-#EXTINF:0,Golf Channel.
-http://br1.urutelam.com:8073/Golf%20Channel%2E?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
-#EXTINF:0,ESPN 2
-http://br1.urutelam.com:8073/ESPN%202?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
-#EXTINF:0,TyC Sport Internacional
-http://br1.urutelam.com:8073/TyC%20Sport%20Internacional?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
-#EXTINF:0,TyC Sports HD.
-http://br1.urutelam.com:8073/TyC%20Sports%20HD%2E?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
-#EXTINF:0,ESPN  HD.
-http://br1.urutelam.com:8073/ESPN%20%20HD%2E?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
-#EXTINF:0,ESPN 3 HD.
-http://br1.urutelam.com:8073/ESPN%203%20HD%2E?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
-#EXTINF:0,ESPN 2 HD.
-http://br1.urutelam.com:8073/ESPN%202%20HD%2E?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
-#EXTINF:0,ESPN2 COL.
-http://br1.urutelam.com:8073/ESPN2%20COL%2E?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
-#EXTINF:0,Win Sports
-http://br1.urutelam.com:8073/Win%20Sports?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+
 #EXTINF:0,ID - Investigation Discovery
 http://br1.urutelam.com:8073/ID%20%2D%20Investigation%20Discovery?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
 #EXTINF:0,Film & arts HD.
@@ -416,8 +430,6 @@ http://br1.urutelam.com:8073/AZ%20click%20HD?u=GONZALOVERON:p=9577263913:server_
 http://br1.urutelam.com:8073/Hola%20Tv%20Hd?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
 #EXTINF:0,Amc Hd
 http://br1.urutelam.com:8073/Amc%20Hd?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
-#EXTINF:0,F1 EXCLUSIVO
-http://br1.urutelam.com:8073/F1%20EXCLUSIVO?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
 #EXTINF:0,Golden Premiere HD
 http://br1.urutelam.com:8073/Golden%20Premiere%20HD?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
 #EXTINF:0,Golden Premiere 2 HD
