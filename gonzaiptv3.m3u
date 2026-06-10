@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:0,F1 EXCLUSIVO
 http://br1.urutelam.com:8073/F1%20EXCLUSIVO?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+#EXTINF:0,Eventos 
+http://br1.urutelam.com:8073/Eventos%20?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+#EXTINF:0,Eventos 2
+http://br1.urutelam.com:8073/Eventos%202?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
 #EXTINF:0,Espn Premium HD.
 http://br1.urutelam.com:8073/Espn%20Premium%20HD%2E?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
 #EXTINF:0,TNT Sports HD.
@@ -518,8 +522,6 @@ http://br1.urutelam.com:8073/espn%20%2D3?u=GONZALOVERON:p=9577263913:server_ip_p
 http://br1.urutelam.com:8073/espn%204%2D?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
 #EXTINF:0,TnT. SpOrT.
 http://br1.urutelam.com:8073/TnT%2E%20SpOrT%2E?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
-#EXTINF:0,Eventos 
-http://br1.urutelam.com:8073/Eventos%20?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
 #EXTINF:0,Claro Sports 1Hd
 http://br1.urutelam.com:8073/Claro%20Sports%201Hd?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
 #EXTINF:0,Claro Sports 2 Hd
